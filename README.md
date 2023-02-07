@@ -1,8 +1,7 @@
-# Libcanard
+# CubeLan
 
-Minimal implementation of the DroneCAN protocol stack in C for resource constrained applications.
+Minimal implementation of the CUBELAN protocol stack in C for resource constrained applications.
 
-Get help on the **[DroneCAN Forum](https://dronecan.org/discord)**.
 
 ## Usage
 
@@ -11,7 +10,7 @@ If you're using Git, it is recommended to add Libcanard to your project as a Git
 like this:
 
 ```bash
-git submodule add https://github.com/DroneCAN/libcanard
+git submodule add https://github.com/CubeLanlibcanard
 ```
 
 The entire library is contained in three files:
